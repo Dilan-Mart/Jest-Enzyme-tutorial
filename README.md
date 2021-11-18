@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jest + Eznyme testing tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic tutorial for Jest and Enzyme testing for react app
 
 ## Available Scripts
 
